@@ -1,2 +1,2 @@
 <?php 
-$con = mysqli_connect("localhost","root","","NewProject");
+$con = mysqli_connect("localhost","root","","Energy");
